@@ -63,11 +63,16 @@ I am always eager to **learn and adapt** to new technologies and challenges with
 
 ## 🤝 Connect with Me  
 📫 **Reach me at:** aravind485528@gmail.com  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind485528) 
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-1-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind485528) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sample-portfolio-aravind0404.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind2504.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://reactbits-portfolio.netlify.app/)
   
 
 ---
