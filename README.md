@@ -1,6 +1,6 @@
 # 🚀 Aravind N | Full Stack Developer  
 
-![Profile Banner](https://your-banner-image-url.com)  
+![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.web24zone.com%2F&psig=AOvVaw1Gu9kBMv6PNSqxMlCSqYIx&ust=1738412026428000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjGus_3n4sDFQAAAAAdAAAAABAQ)  
 
 ## 👋 Hi, I’m Aravind Natarajan  
 A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Express, MongoDB, and MySQL**. I specialize in building dynamic, responsive, and user-friendly web applications.  
@@ -47,17 +47,6 @@ These are some of my notable projects. Feel free to explore the repositories for
 
 ![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravind-Natarajan&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-Natarajan&layout=compact&theme=radical)  
-
----
-
-## 🏆 About Me  
-I am passionate about creating remarkable user experiences and constantly strive to improve my skills. With a strong proficiency in **Full Stack Development**, I have extensive experience in frontend development and a solid foundation in backend development.  
-
-I have worked on a variety of projects including **TEQ Base**, a scheduling system built using the **MERN stack**. This project helped me enhance my skills in **React.js, Node.js, Express, and MongoDB**. I have collaborated with a team of developers to implement server-side logic and design scalable databases.  
-
-In addition to my technical expertise, I am also proficient in **UI design tools** such as **Figma and Adobe Illustrator**. These skills help me effectively translate ideas into visually appealing and user-friendly designs.  
-
-I am always eager to **learn and adapt** to new technologies and challenges within the field. I believe in the power of **continuous learning and growth** in becoming a well-rounded developer.  
 
 ---
 
