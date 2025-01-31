@@ -12,7 +12,7 @@ A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Exp
 
 ---
 
-![Profile Banner]https://polywork-images-proxy.imgix.net/https%3A%2F%2Fwww.polywork.com%2Frenish_d%2Favatar%3Fversion%3D32c23f74c0917726a1210022887a3c92?ixlib=rails-4.3.1&w=512&h=512&fit=crop&auto=format&s=bd13fc4fd1780ce1fa579f48ed482136)
+![Profile Banner](https://polywork-images-proxy.imgix.net/https%3A%2F%2Fwww.polywork.com%2Frenish_d%2Favatar%3Fversion%3D32c23f74c0917726a1210022887a3c92?ixlib=rails-4.3.1&w=512&h=512&fit=crop&auto=format&s=bd13fc4fd1780ce1fa579f48ed482136)
 
 ## 🛠 Skills  
 **Frontend:**  
