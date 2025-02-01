@@ -33,16 +33,6 @@ A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Exp
 
 ---
 
-## 📌 Projects  
-🔹 **TEQ Base** – A scheduling system for institutions. *(MERN Stack)*  
-🔹 **Student Registration Form** – A form to manage course inquiries. *(MERN Stack)*  
-🔹 **Alumni Form** – Data collection form for T4TEQ students. *(PHP, Bootstrap, JavaScript)*  
-🔹 **Portfolio** – Showcasing my projects and skills. *(React & HTML Versions)*  
-
-These are some of my notable projects. Feel free to explore the repositories for more details.  
-
----
-
 ## 📊 GitHub Statistics  
 
 ![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravind-Natarajan&show_icons=true&theme=radical)  
