@@ -1,6 +1,6 @@
 # 🚀 Aravind N | Full Stack Developer  
 
-![Profile Banner](https://github.com/Aravind-Natarajan/Aravind-Natarajan/blob/main/MixCollage-02-Jan-2026-04-39-PM-1870.jpg)  
+![Profile Banner](https://github.com/Aravind-Natarajan/Aravind-Natarajan/blob/main/MixCollage-02-Jan-2026-04-40-PM-3930.jpg)  
 
 ## 👋 Hi, I’m Aravind Natarajan  
 A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Express, MongoDB, and MySQL**. I specialize in building dynamic, responsive, and user-friendly web applications.  
