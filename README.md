@@ -13,6 +13,10 @@ A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Exp
 ---
 
 ## 🛠 Skills  
+**Programming:**
+![C Programming](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
