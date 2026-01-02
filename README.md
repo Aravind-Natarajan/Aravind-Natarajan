@@ -1,6 +1,6 @@
 # 🚀 Aravind N | Full Stack Developer  
 
-![Profile Banner](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)  
+![Profile Banner](https://github.com/Aravind-Natarajan/Aravind-Natarajan/blob/main/MixCollage-02-Jan-2026-04-39-PM-1870.jpg)  
 
 ## 👋 Hi, I’m Aravind Natarajan  
 A passionate **Full Stack Developer** with expertise in **React.js, Node.js, Express, MongoDB, and MySQL**. I specialize in building dynamic, responsive, and user-friendly web applications.  
